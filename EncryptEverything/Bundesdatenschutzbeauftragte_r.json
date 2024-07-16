@@ -1,9 +1,17 @@
 {
-	"Title": "Bundesbeauftragte/r für Datenschutz und Informationsfreiheit",
-	"Anschrift": [
-	{"Dienstsitz Bonn": "Graurheindorfer Str. 153, 53117 Bonn", " ": "Postfach 14 68, 53004 Bonn", "Verbindungsbüro Berlin": "Spittelmarkt 11, 10117 Berlin"}
-	]
-	"Erreichbarkeit": [
-		{"Telefon": "0228/997799-0", "E-Mail": "poststelle@bfdi.bund.de", "Internet": "www.bfdi.bund.de", "Mastodon":	"@bfdi@social.bund.de"}
-		]
+  "Title": "Bundesbeauftragte/r für Datenschutz und Informationsfreiheit",
+  "Anschrift": [
+    {
+      "Dienstsitz Bonn": "Graurheindorfer Str. 153, 53117 Bonn", "": "Postfach 14 68, 53004 Bonn",
+      "Verbindungsbüro Berlin": "Spittelmarkt 11, 10117 Berlin"
+    }
+  ],
+  "Erreichbarkeit": [
+    {
+      "Telefon": "0228/997799-0",
+      "E-Mail": "poststelle@bfdi.bund.de",
+      "Internet": "www.bfdi.bund.de",
+      "Mastodon": "@bfdi@social.bund.de"
+    }
+  ]
 }
